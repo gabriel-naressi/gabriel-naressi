@@ -4,18 +4,19 @@ I worked a little with Grails (which forced me to learn the Groovy language and 
 
 Later I started to work with Spring Boot applications with onion architecture and JUnit as a test tool. Furthermore, my activities were always involved with relational databases like PostgreSQL and Oracle.
 
-Currently I work with:
+Currently:
 
-- ⚛️ Reactjs/JavaScript (and TypeScript) + MobX as state control
-- 🍃 Spring Boot applications using Onion architecture and Java.
-- ✅ Tasks involving:
+- ⚛️ I'm working with Reactjs/JavaScript (and TypeScript) + MobX as state control
+- 🍃 I'm working with Spring Boot (Java) and Onion architecture.
+- ✅ Work on tasks that involve:
   - 🐳 Docker
   - 🐘 Gradle
   - 💄 HTML, CSS
   - 💾 Relational databases (Oracle and PostgreSQL)
   - 🐱 Yarn, NPM and webpack
-- 😻 Working with Gitlab, Gitflow and scrum process.
-- 🌱 Studying React, Redux and Typescript (I will soon be working on a project with this stack).
+- 😻 I'm working with Gitlab, Gitflow and scrum process.
+- 📚 I'm studying the stack: React, Redux and Typescript (I will soon be working on a project at [Synchro](https://www.synchro.com.br) with this stack).
+- 🌱 I've been exploring Vue 3 and Vuex 4 with Typescript
 
 Additional info about me:
 
