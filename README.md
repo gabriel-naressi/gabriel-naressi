@@ -2,7 +2,7 @@ Hi, I'm Gabriel Naressi. I'm from Brazil and I've been programming since 2014. I
 
 I worked a little with Grails (which forced me to learn the Groovy language and MVC architecture).
 
-Later I started to work with Spring Boot applications with onion architecture and JUnit as a test tool. Furthermore, my activities were always involved with relational databases like PostgreSQL and Oracle.
+Later I started to work with Spring Boot applications with onion architecture and JUnit as a test tool. Furthermore, my activities were always involved with relational databases.
 
 Currently:
 
