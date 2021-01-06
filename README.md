@@ -1,17 +1,30 @@
-My name is Gabriel. I've been programming since 2014. In my first job (and only job), I start with React and MobX (as state control). I worked a little with Grails (which forced me to learn the Groovy language). Later I started to work with Spring Boot applications with onion architecture and JUnit as a test tool. My activities were always involved with relational databases like PostgreSQL and Oracle.
+# I'm Gabriel Naressi 🎩
 
-Currently:
+I'm from Brazil and I've been programming since 2014. In my first job (and only job at [Synchro](https://www.synchro.com.br)), I start with React and MobX (as state control). In fact, my team started to create some open source projects that ended up discontinued. The org was: [Synchro-TEC](https://github.com/orgs/Synchro-TEC/dashboard) :octocat:.
 
-- Work as full stack at [Synchro](https://www.synchro.com.br):
-  - ⚛️ React + Mobx stack (now with Typescript)
-  - 🍃 Spring Boot and Java
-- :seedling: Studying React, Redux and Typescript because I will soon be working on a project with this stack.
-- Working with Gitlab, Gitflow and scrum process.
+I worked a little with Grails (which forced me to learn the Groovy language and MVC architecture).
 
-Curiosities about me:
+Later I started to work with Spring Boot applications with onion architecture and JUnit as a test tool. Furthermore, my activities were always involved with relational databases like PostgreSQL and Oracle.
 
-- I work remotely for more than 3 years.
-- I like to study philosophy and I'm studying psychology.
-- I like to learn about paranormal phenomena.
+Currently I work with:
 
-📫 Get in touch in Telegram: @gxnfdo
+- ⚛️ Reactjs/JavaScript (and TypeScript) + MobX as state control
+- 🍃 Spring Boot applications using Onion architecture and Java.
+- ✅ Tasks involving:
+  - 🐳 Docker
+  - 🐘 Gradle
+  - 💄 HTML, CSS
+  - 💾 Relational databases (Oracle and PostgreSQL)
+  - 🐱 Yarn, NPM and webpack
+- 😻 Working with Gitlab, Gitflow and scrum process.
+- 🌱 Studying React, Redux and Typescript (I will soon be working on a project with this stack).
+
+Additional info about me:
+
+- 🏠 I work remotely for more than 3 years.
+- 🧠 I like to study philosophy.
+- 🎓 I'm about to graduate in psycology.
+- 👻 I am interested in anomalistic psychology.
+- 💀 I like to study symbolism. There is my Instagram page (posts are in portuguese): [@dicio.simbolos](https://www.instagram.com/dicio.simbolos/)
+
+📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/gabriel-naressi-3234a6118/)
