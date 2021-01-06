@@ -1,4 +1,4 @@
-Hi, I'm Gabriel Naressi. I'm from Brazil and I've been programming since 2014. In my first job (and only job at [Synchro](https://www.synchro.com.br)), I start with React and MobX (as state control). In fact, my team started to create some open source projects that ended up discontinued. The org was: [Synchro-TEC](https://github.com/orgs/Synchro-TEC/dashboard) :octocat:.
+Hi, I'm Gabriel Naressi. I'm from Brazil and I've been programming since 2014. In my first job (and only job at [Synchro](https://www.synchro.com.br)), I start with React and MobX (as state control). In fact, my team started to create some open source projects that ended up discontinued. The org was: [Synchro-TEC](https://github.com/Synchro-TEC) :octocat:.
 
 I worked a little with Grails (which forced me to learn the Groovy language and MVC architecture).
 
