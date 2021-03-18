@@ -5,7 +5,7 @@ Throughout the years I worked a little with Grails (which forced me to learn the
 Currently:
 
 - ⚛️ Currently working with React, Redux (with Redux Toolkit) and TypeScript
-- Experience with React/TypeScript + MobX as state control
+- Good experience with React/TypeScript + MobX as state control
 - 🍃 I'm working with Spring Boot (Java) and onion architecture
 - ✅ Work on tasks that involve:
   - 🐳 Docker
