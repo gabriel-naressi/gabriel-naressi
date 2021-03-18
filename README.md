@@ -4,7 +4,8 @@ Throughout the years I worked a little with Grails (which forced me to learn the
 
 Currently:
 
-- ⚛️ I'm working with Reactjs/JavaScript (and TypeScript) + MobX as state control
+- ⚛️ Currently working with React, Redux (with Redux Toolkit) and TypeScript
+- Experience with React/TypeScript + MobX as state control
 - 🍃 I'm working with Spring Boot (Java) and onion architecture
 - ✅ Work on tasks that involve:
   - 🐳 Docker
@@ -13,8 +14,6 @@ Currently:
   - 💾 Relational databases (Oracle and PostgreSQL)
   - 🐱 Yarn, NPM and webpack
 - 😻 I'm working with Gitlab, Gitflow and scrum process
-- 📚 I'm studying the stack: React, Redux and Typescript (I will soon be working on a project at [Synchro](https://www.synchro.com.br) with this stack)
-- 🌱 I've been exploring Vue 3 and Vuex 4 with Typescript
 
 Additional info about me:
 
