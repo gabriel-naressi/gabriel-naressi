@@ -21,6 +21,6 @@ Additional info about me:
 - 🧠 I like to study philosophy
 - 🎓 I'm about to graduate in psycology
 - 👻 I am interested in anomalistic psychology
-- 💀 I like to study symbolism. Here is my Instagram page (posts are in portuguese): [@_mysterium.coniunctionis](https://www.instagram.com/_mysterium.coniunctionis/)
+- 💀 I like to study symbolism
 
 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/gabriel-naressi-3234a6118/)
